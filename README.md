@@ -1,1 +1,1 @@
-a quick script that create MARC records for orphaned barcodes: bib and item records that have been "lost"
+a quick script that creates MARC records for orphaned barcodes: bib and item records that have been "lost"
